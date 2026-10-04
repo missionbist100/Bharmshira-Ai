@@ -1,0 +1,6 @@
+{
+  "name": "Bharmashira AI",
+  "description": "Production-ready public multi-model AI platform with unified AI routing, real-time web search, deep research, document analysis, and daily quota management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
